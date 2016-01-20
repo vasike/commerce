@@ -38,6 +38,7 @@ class CartTest extends OrderTestBase {
   public static $modules = [
     'commerce_cart',
     'node',
+    'views',
   ];
 
   /**
